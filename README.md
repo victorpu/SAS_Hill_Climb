@@ -16,7 +16,7 @@ hill_climb_gss: It implements the algorithm SAS clustering with golden section s
 
 Table1.R: It generates Table 1 to compare hill_climb, hill_climb_GSS, sparse Kmeans and IFPCA under the regime in section 4.1.
 
-Table1_IFPCA.m: This is a Matlab code which performs sparse clustering using IFPCA on the datasets in section 4.1. (We obtained the codes from J. Jin and W. Wang (2014), which can also be downloaded from http://www.stat.cmu.edu/~jiashun/Research/software/HCClustering.)
+Table1_IFPCA.m: This is a Matlab code which performs sparse clustering using IFPCA on the datasets in section 4.1. (We obtained the code "ifpca.m" from J. Jin and W. Wang (2014), which can also be downloaded from http://www.stat.cmu.edu/~jiashun/Research/software/HCClustering.)
 
 Table2.R: It generates Table 2 to compare hill_climb, hill_climb_GSS, sparse Kmeans and IFPCA under the regime in section 4.2.
 
